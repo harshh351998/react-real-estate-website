@@ -6,7 +6,6 @@ export const homeObjThree = {
   headline: 'Metals',
   description:
     "Get everything set up and ready in under 10 minutes. All you need to do is add your information and you're ready to go.",
-  buttonLabel: 'Start Now',
   imgStart: 'start',
   img: 'images/d2.jpg',
   alt: 'Vault'
@@ -20,7 +19,7 @@ export const homeObjFour = {
   headline: 'Upholstery',
   description:
     'Never ever have to worry again about saved reciepts. We store your data, so you can access it anytime.',
-  buttonLabel: 'Sign Up Now',
+
   imgStart: 'start',
   img: 'images/d3.jpg',
   alt: 'Vault'

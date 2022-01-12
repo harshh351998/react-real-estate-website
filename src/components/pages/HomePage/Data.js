@@ -19,7 +19,6 @@ export const homeObjTwo = {
   headline: 'Interior Design',
   description:
     'We have you covered no matter where you are located. Over 140 locations worldwide to ensure you have access anytime',
-  buttonLabel: 'Learn More',
   imgStart: '',
   img: 'images/d4.jpg',
   alt: 'Vault'
@@ -33,7 +32,7 @@ export const homeObjThree = {
   headline: 'Metals',
   description:
     "Get everything set up and ready in under 10 minutes. All you need to do is add your information and you're ready to go.",
-  buttonLabel: 'Start Now',
+  
   imgStart: 'start',
   img: 'images/d2.jpg',
   alt: 'Vault'
