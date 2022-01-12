@@ -1,12 +1,5 @@
 import React from 'react';
-import { Button } from './Button';
 import './Team.css';
-import { FaFire } from 'react-icons/fa';
-import { BsXDiamondFill } from 'react-icons/bs';
-import { GiCrystalize } from 'react-icons/gi';
-
-import { Link } from 'react-router-dom';
-
 function Team() {
   return (
    
