@@ -36,6 +36,9 @@
   align-items: center;
 }
 
+.navbar-text {
+  color:red
+}
 .navbar-icon {
   margin-right: 0.5rem;
 }
