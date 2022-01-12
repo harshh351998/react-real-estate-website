@@ -1,13 +1,13 @@
 import React from 'react';
 import HeroSection from '../../HeroSection';
-import { homeObjOne, homeObjTwo } from './Data';
+import { homeObjThree, homeObjFour } from './Data';
 
 
 function Products() {
   return (
     <>
-      <HeroSection {...homeObjOne} />
-      <HeroSection {...homeObjTwo} />
+      <HeroSection {...homeObjThree} />
+      <HeroSection {...homeObjFour} />
     </>
   );
 }
